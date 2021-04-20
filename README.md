@@ -52,7 +52,7 @@ $ git clone <https://github.com/gustavobborges/secretary-backend>
 $ cd secretary-backend
 
 # Executar a aplicação
-$ yarn dev
+$ yarn start
 
 ```
 
