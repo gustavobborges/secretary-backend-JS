@@ -1,13 +1,7 @@
 # Secretary Api REST
 
 ## Descrição do Projeto
-<p align="center">API Rest de agenda de compromissos.</p>
-
-### Pré-requisitos
-
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+<p>API Rest de agenda de compromissos.</p>
 
 ## 🎲 Interagindo com a API REST
 
@@ -43,6 +37,12 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 
 ## 🎲 Rodando o Back End (servidor)
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ```bash
 # Clone este repositório
