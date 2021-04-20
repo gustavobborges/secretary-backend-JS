@@ -81,7 +81,9 @@ router.route("/appointments/:id")
 
 
 app.use("/api", router)
-app.listen(8080);
-console.log("Iniciando a aplicação na porta 8080...");
+app.listen(process.env.PORT || 8080, function(){
+    console.log("Iniciando a aplicação na porta 8080..");
+});
+
 
 
