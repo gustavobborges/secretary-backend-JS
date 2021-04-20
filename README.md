@@ -24,21 +24,21 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### 🎲 Requisições HTTP:
 
 <p>
-    <b>GET</b>
-    <b>List all: </b>https://the-secretary.herokuapp.com/api/appointmentsgit<br>
-    <b>List one: </b>https://the-secretary.herokuapp.com/api/appointments/{id}<br>
+    <b>GET</b><br>
+    <b>- List all: </b>https://the-secretary.herokuapp.com/api/appointmentsgit<br>
+    <b>- List one: </b>https://the-secretary.herokuapp.com/api/appointments/{id}<br>
 </p>
 <p>
-    <b>POST</b>
-    <b>Create: </b>https://the-secretary.herokuapp.com/api/appointments<br>
+    <b>POST</b><br>
+    <b>- Create: </b>https://the-secretary.herokuapp.com/api/appointments<br>
 </p>
 <p>
-    <b>PUT</b>
-    <b>Edit: </b>https://the-secretary.herokuapp.com/api/appointments/{id}<br>
+    <b>PUT</b><br>
+    <b>- Edit: </b>https://the-secretary.herokuapp.com/api/appointments/{id}<br>
 </p>
 <p>
-    <b>DELETE</b>
-    <b>Delete: </b>https://the-secretary.herokuapp.com/api/appointments/{id}<br>
+    <b>DELETE</b><br>
+    <b>- Delete: </b>https://the-secretary.herokuapp.com/api/appointments/{id}<br>
 </p>
 
 
