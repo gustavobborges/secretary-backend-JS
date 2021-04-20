@@ -1,4 +1,4 @@
-# Secretary Api REST
+# Secretary API
 
 ## Descrição do Projeto
 <p>API Rest de agenda de compromissos.</p>
