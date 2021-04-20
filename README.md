@@ -9,9 +9,19 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Interagindo com a API REST
+## 🎲 Interagindo com a API REST
 
-## 🎲 Requisições HTTP:
+### Appointments:
+
+#Form Example:
+    name: Consulta
+    description: Almoço
+    place: Centro
+    date: 18/04/2021
+    time: 12:30
+    
+
+### 🎲 Requisições HTTP:
 #GET
     - LIST ALL
         https://the-secretary.herokuapp.com/api/appointments
@@ -32,7 +42,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
         https://the-secretary.herokuapp.com/api/appointments/{id}
 
 
-### 🎲 Rodando o Back End (servidor)
+## 🎲 Rodando o Back End (servidor)
 
 ```bash
 # Clone este repositório
