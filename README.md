@@ -13,14 +13,13 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### Appointments:
 
-Exemplo de Formulário para requisições POST e PUT:
-    <p>
-        <b>name: </b>Consulta<br>
-        <b>description: </b>Almoço<br>
-        <b>place: </b>Centro<br>
-        <b>date: </b>18/04/2021<br>
-        <b>time: </b>12:30
-    </p>   
+<p>
+    <b>name: </b>Consulta<br>
+    <b>description: </b>Almoço<br>
+    <b>place: </b>Centro<br>
+    <b>date: </b>18/04/2021<br>
+    <b>time: </b>12:30
+</p>   
 
 ### 🎲 Requisições HTTP:
 #GET
