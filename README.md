@@ -14,17 +14,16 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ### Appointments:
 
 #Form Example:
-    name: Consulta
-    description: Almoço
-    place: Centro
-    date: 18/04/2021
-    time: 12:30
-    
+<p><b>name: </b>Consulta</p>
+<p><b>description: </b>Almoço</p>
+<p><b>place: </b>Centro</p>
+<p><b>date: </b>18/04/2021</p>
+<p><b>time: </b>12:30</p>   
 
 ### 🎲 Requisições HTTP:
 #GET
     - LIST ALL
-        https://the-secretary.herokuapp.com/api/appointments
+        https://the-secretary.herokuapp.com/api/appointmentsgit a
     - LIST ONE
         https://the-secretary.herokuapp.com/api/appointments/{id}
 
