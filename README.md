@@ -53,6 +53,7 @@ $ cd secretary-backend
 # Executar a aplicação
 $ yarn dev
 
+```
 
 ### 🛠 Tecnologias
 
