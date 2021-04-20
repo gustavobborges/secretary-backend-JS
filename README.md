@@ -25,7 +25,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 #GET
     - LIST ALL
         https://the-secretary.herokuapp.com/api/appointments
-    
     - LIST ONE
         https://the-secretary.herokuapp.com/api/appointments/{id}
 
