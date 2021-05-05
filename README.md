@@ -38,25 +38,25 @@
 
 ## 🎲 Running backend (server)
 
-### Pré-requisitos
+### Prerequisites 
 
 Before begin, you must have the fallowing items installed on your computer: 
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
 In addition, it is good to have an editor to work with the code as [VSCode](https://code.visualstudio.com/)
 
 ```bash
-# Clone este repositório
+# Clone this repositorie
 $ git clone <https://github.com/gustavobborges/secretary-backend>
 
-# Acesse a pasta do projeto no terminal/cmd
+# Access this directory
 $ cd secretary-backend
 
-# Executar a aplicação
+# Run the application
 $ yarn start
 
 ```
 
-### 🛠 Tecnologias
+### 🛠 Technologies
 
 The following technologies were used in this project:
 
