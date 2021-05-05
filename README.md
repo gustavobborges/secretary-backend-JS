@@ -3,7 +3,7 @@
 ## Project description
 <p>API Rest for appointments.</p>
 
-## 🎲 Interagindo com a API REST
+## 🎲 Using API REST
 
 ### Appointment example:
 
