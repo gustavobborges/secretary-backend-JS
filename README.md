@@ -40,9 +40,9 @@
 
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Before begin, you must have the fallowing items installed on your computer: 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/).
+In addition, it is good to have an editor to work with the code as [VSCode](https://code.visualstudio.com/)
 
 ```bash
 # Clone este repositório
@@ -58,7 +58,7 @@ $ yarn start
 
 ### 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+The following technologies were used in this project:
 
 - [Node.js](https://nodejs.org/en/)
 - [MongoDB](https://www.mongodb.com/)
