@@ -5,7 +5,7 @@
 
 ## 🎲 Interagindo com a API REST
 
-### Appointment:
+### Appointment example:
 
 <p>
     <b>name: </b>Consulta<br>
