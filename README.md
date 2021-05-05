@@ -1,7 +1,7 @@
 # Secretary API
 
-## Descrição do Projeto
-<p>API Rest de agenda de compromissos.</p>
+## Project description
+<p>API Rest for appointments.</p>
 
 ## 🎲 Interagindo com a API REST
 
@@ -15,7 +15,7 @@
     <b>time: </b>12:30
 </p>   
 
-### 🎲 Requisições HTTP:
+### 🎲 Requests HTTP:
 
 <p>
     <b>GET</b><br>
@@ -36,7 +36,7 @@
 </p>
 
 
-## 🎲 Rodando o Back End (servidor)
+## 🎲 Running backend (server)
 
 ### Pré-requisitos
 
